@@ -1,4 +1,5 @@
 .idea/*
+.idea
 target/*git
 .idea/workspace.xml
 # Compiled class file
