@@ -1,10 +1,9 @@
-package algo;
+package com.km.algorithm.algo;
 
-import java.io.*;
 import java.lang.reflect.*;
 import java.lang.*;
 
-class substring {
+class Substring {
 	
 	public static void main(String args[]) {
 		// System.out.println("code wrks fr string with number of one's more

@@ -1,4 +1,4 @@
-package algo;
+package com.km.algorithm.algo;
 
 public class Word {
 

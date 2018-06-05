@@ -1,6 +1,4 @@
-package algo;
-
-import java.util.HashMap;
+package com.km.algorithm.algo;
 
 public class ClosestPoint {
 

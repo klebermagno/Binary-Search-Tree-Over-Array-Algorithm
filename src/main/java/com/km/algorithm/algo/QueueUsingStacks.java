@@ -1,4 +1,4 @@
-package algo;
+package com.km.algorithm.algo;
 
 import java.util.NoSuchElementException;
 import java.util.Stack;
